@@ -39,4 +39,12 @@ lib/ исходный код пакета
 ![image](https://github.com/user-attachments/assets/943210ee-aa44-426c-808f-9e5aad68d10d)
 
 ![image](https://github.com/user-attachments/assets/3c33731b-67c2-47dd-b256-7d55a60ae9a9)
+![image](https://github.com/user-attachments/assets/4ed31cb4-40f0-4b22-a70f-8b810caafdef)
+
+![image](https://github.com/user-attachments/assets/202ecf4a-c9a6-433f-bb2d-cfde0275a681)
+![image](https://github.com/user-attachments/assets/aa779063-67c2-468e-9972-9c864a18df76)
+
+
+![image](https://github.com/user-attachments/assets/375b44f4-8f34-4942-b81f-8a57c5acaeb5)
+![image](https://github.com/user-attachments/assets/56e223ae-1d20-404c-b40f-224040342a37)
 
