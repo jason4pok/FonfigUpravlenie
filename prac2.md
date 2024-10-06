@@ -34,3 +34,9 @@ lib/ исходный код пакета
 ![image](https://github.com/user-attachments/assets/9d668c80-02b7-4cf5-aaf7-85d493058967)
 ![image](https://github.com/user-attachments/assets/4e419b62-ff70-4a20-9eb7-11392b7ae111)
 ![dependencies](https://github.com/user-attachments/assets/577a8c98-646a-4ff3-9b32-8c560b088cce)
+
+![image](https://github.com/user-attachments/assets/e1b7d89d-5643-4bfb-9181-87407800efc5)
+![image](https://github.com/user-attachments/assets/943210ee-aa44-426c-808f-9e5aad68d10d)
+
+![image](https://github.com/user-attachments/assets/3c33731b-67c2-47dd-b256-7d55a60ae9a9)
+
