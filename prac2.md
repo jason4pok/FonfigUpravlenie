@@ -22,3 +22,15 @@ lib/ исходный код пакета
 
 
 ![image](https://github.com/user-attachments/assets/3c06d8e1-e159-48ff-ada0-f34fccb2e750)
+![image](https://github.com/user-attachments/assets/a085f5b9-f5a1-468b-a6d3-f98d5328a989)
+![image](https://github.com/user-attachments/assets/8111d4ea-ef9e-4647-9598-7c80ee2e6543)
+Имя пакета: express
+Версия: 4.17.1
+Лицензия: MIT
+Количество зависимостей: 48
+Количество версий: 231
+описание, сайт, зависимости и тд
+
+![image](https://github.com/user-attachments/assets/9d668c80-02b7-4cf5-aaf7-85d493058967)
+![image](https://github.com/user-attachments/assets/4e419b62-ff70-4a20-9eb7-11392b7ae111)
+![dependencies](https://github.com/user-attachments/assets/577a8c98-646a-4ff3-9b32-8c560b088cce)
