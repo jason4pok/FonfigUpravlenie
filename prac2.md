@@ -17,6 +17,7 @@ examples/ примеры использования пакета
 lib/ исходный код пакета
 
 можно скачать арmatplotlib напрямую из github при помощи git
+
 ![image](https://github.com/user-attachments/assets/d3d8737b-f5dc-428f-a001-d73f3d92307a)
 ![image](https://github.com/user-attachments/assets/fd9d0f71-36d3-453f-8787-496df60768b7)
 
@@ -30,6 +31,7 @@ lib/ исходный код пакета
 Количество зависимостей: 48
 Количество версий: 231
 описание, сайт, зависимости и тд
+![image](https://github.com/user-attachments/assets/2991f6c9-869e-44a8-ab04-a2241a7fa544)
 
 ![image](https://github.com/user-attachments/assets/9d668c80-02b7-4cf5-aaf7-85d493058967)
 ![image](https://github.com/user-attachments/assets/4e419b62-ff70-4a20-9eb7-11392b7ae111)
