@@ -45,8 +45,7 @@ lib/ исходный код пакета
 
 
 ![image](https://github.com/user-attachments/assets/202ecf4a-c9a6-433f-bb2d-cfde0275a681)
-![image](https://github.com/user-attachments/assets/b69363f2-c2b9-4e87-a9d7-06a9ca52c343)
-
+![image](https://github.com/user-attachments/assets/a2bf1062-d83b-4a7a-aa03-d79c0d9a4337)
 
 
 ![image](https://github.com/user-attachments/assets/375b44f4-8f34-4942-b81f-8a57c5acaeb5)
@@ -55,5 +54,6 @@ A 1.2.0 зависит от moduleX ^1.1.0.
 B 1.0.0 не имеет зависимостей.
 moduleX 1.1.0 зависит от helper >=0.1.0.
 helper 0.1.0 не имеет зависимостей.
-![image](https://github.com/user-attachments/assets/56e223ae-1d20-404c-b40f-224040342a37)
+![image](https://github.com/user-attachments/assets/f9fa5ee9-3520-49c4-a9ad-89adc2aa5cb2)
+
 
