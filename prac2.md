@@ -45,9 +45,15 @@ lib/ исходный код пакета
 
 
 ![image](https://github.com/user-attachments/assets/202ecf4a-c9a6-433f-bb2d-cfde0275a681)
-![image](https://github.com/user-attachments/assets/294b0896-9656-4710-87c9-f684db3eb9b2)
+![image](https://github.com/user-attachments/assets/b69363f2-c2b9-4e87-a9d7-06a9ca52c343)
+
 
 
 ![image](https://github.com/user-attachments/assets/375b44f4-8f34-4942-b81f-8a57c5acaeb5)
+root 2.0.0 зависит от A ^1.2.0 и B ^1.0.0.
+A 1.2.0 зависит от moduleX ^1.1.0.
+B 1.0.0 не имеет зависимостей.
+moduleX 1.1.0 зависит от helper >=0.1.0.
+helper 0.1.0 не имеет зависимостей.
 ![image](https://github.com/user-attachments/assets/56e223ae-1d20-404c-b40f-224040342a37)
 
