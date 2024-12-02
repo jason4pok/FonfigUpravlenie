@@ -31,3 +31,18 @@ python main.py sergey virtual_fs.zip start_script.txt
 
 ## 2. Структура проекта
 
+main.py - основной код эмулятора
+
+virtual_fs.zip - архив с виртуальной фаловой системой
+
+start_script.txt - Список команд которые последовательно выполняются при запуске эмулятора для проверки работоспособности эмулятора
+
+## 3. Тест работоспособности
+
+Запуск тестирования
+
+pytest
+
+Результат тестирования 
+
+![image](https://github.com/user-attachments/assets/d72af940-bbf8-4195-a4d2-06a49cb6cb9d)
