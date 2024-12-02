@@ -19,15 +19,16 @@ zip. Эмулятор должен работать в режиме CLI.
 следующие команды:
 1. history.
 2. rm.
+
 Все функции эмулятора должны быть покрыты тестами, а для каждой из
 поддерживаемых команд необходимо написать 3 теста.
 
 
 ## 1. Запуск программы
 
-cd D:\conf1\shell_emulator2
+``` cd D:\conf1\shell_emulator2 ```
 
-python main.py sergey virtual_fs.zip start_script.txt
+``` python main.py sergey virtual_fs.zip start_script.txt ```
 
 ## 2. Структура проекта
 
@@ -41,7 +42,7 @@ start_script.txt - Список команд которые последоват
 
 Запуск тестирования
 
-pytest
+``` pytest ``` 
 
 Результат тестирования 
 
