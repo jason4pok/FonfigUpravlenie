@@ -7,3 +7,5 @@
 
 Создать приведенный ниже Makefile и проверить его работоспособность.
 
+
+![image](https://github.com/user-attachments/assets/7028dd89-7f95-455a-9db0-c6d9eed3e650)
