@@ -1,0 +1,6 @@
+ls
+cd test_dir
+ls
+cd ..
+rm test_dir/file1.txt
+history
