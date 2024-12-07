@@ -62,3 +62,25 @@ mathematics
 ![image](https://github.com/user-attachments/assets/a0ec8eb1-71be-487c-b733-65fcc1f17eaf)
 ![image](https://github.com/user-attachments/assets/9d898339-a52f-4fa0-a40e-ed5a79622a65)
 ![image](https://github.com/user-attachments/assets/6d2b8480-a1a0-4bc5-a141-246f421becc0)
+
+## Задача 2
+Реализовать вариант трансляции, при котором повторный запуск make не выводит для civgraph на экран уже выполненные "задачи".
+![image](https://github.com/user-attachments/assets/31e79426-274f-447a-b9c1-6c0c44ab126d)
+![image](https://github.com/user-attachments/assets/6b1aa012-c85c-4bbb-b953-680610a5e10c)
+![image](https://github.com/user-attachments/assets/8e53e04c-c5c7-41b0-a26c-595b087539c8)
+
+
+
+## Задача 3
+Добавить цель clean, не забыв и про "животное".
+
+## Задача 4
+Написать makefile для следующего скрипта сборки:
+
+```
+gcc prog.c data.c -o prog
+dir /B > files.lst
+7z a distr.zip *.*
+```
+
+Вместо gcc можно использовать другой компилятор командной строки, но на вход ему должны подаваться два модуля: prog и data. Если используете не Windows, то исправьте вызовы команд на их эквиваленты из вашей ОС. В makefile должны быть, как минимум, следующие задачи: all, clean, archive. Обязательно покажите на примере, что уже сделанные подзадачи у вас не перестраиваются.
