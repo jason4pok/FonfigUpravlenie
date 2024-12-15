@@ -32,5 +32,8 @@
             if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]oading bubble_sort.txt…]()
 
+[Uploading bubble_sort.nw…]()
 
+Все 3 файла: 
+[bubble_sort.zip](https://github.com/user-attachments/files/18139498/bubble_sort.zip)
 
