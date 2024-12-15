@@ -19,3 +19,24 @@
 Используйте онлайн-редактор.
 
 ![image](https://github.com/user-attachments/assets/7d4f5adc-1416-47b6-a5e0-22ea8292aabc)
+
+## Задача 3
+Описать какой-либо алгоритм сортировки с помощью noweb. Язык реализации не важен. Прислать nw-файл, pdf-файл и файл с исходным кодом. В начале pdf-файла должно быть указано ваше авторство. Добавьте, например, где-то в своем тексте сноску: \footnote{Разработал Фамилия И.О.} Дополнительное задание: сравните "грамотное программирование" с Jupyter-блокнотами (см. https://github.com/norvig/pytudes/blob/master/ipynb/BASIC.ipynb), опишите сходные черты, различия, перспективы того и другого.
+
+[bubble_sort.pdf](https://github.com/user-attachments/files/18139479/bubble_sort.pdf)
+
+[Uploaddef bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]ing bubble_sort.py…]()
+
+
+[Upldef bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]oading bubble_sort.py…]()
+
