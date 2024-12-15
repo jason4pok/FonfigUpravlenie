@@ -1,4 +1,4 @@
-## Практическое занятие №7. Генераторы документации
+[bubble_sort.txt](https://github.com/user-attachments/files/18139495/bubble_sort.txt)## Практическое занятие №7. Генераторы документации
 П.Н. Советов, РТУ МИРЭА
 
 ## Задача 1
@@ -25,18 +25,12 @@
 
 [bubble_sort.pdf](https://github.com/user-attachments/files/18139479/bubble_sort.pdf)
 
-[Uploaddef bubble_sort(arr):
-    n = len(arr)
-    for i in range(n):
-        for j in range(0, n-i-1):
-            if arr[j] > arr[j+1]:
-                arr[j], arr[j+1] = arr[j+1], arr[j]ing bubble_sort.py…]()
-
-
 [Upldef bubble_sort(arr):
     n = len(arr)
     for i in range(n):
         for j in range(0, n-i-1):
             if arr[j] > arr[j+1]:
-                arr[j], arr[j+1] = arr[j+1], arr[j]oading bubble_sort.py…]()
+                arr[j], arr[j+1] = arr[j+1], arr[j]oading bubble_sort.txt…]()
+
+
 
