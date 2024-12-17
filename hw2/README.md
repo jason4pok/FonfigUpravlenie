@@ -21,8 +21,6 @@ git_dep.py - Код программы
 
 test_git_dep - Тесты программы
 
-output_file_path.png - Cоставленный граф
-
 commit_dependecies.png - составленный граф
 
 commit-tree-example.zip - клонированный репозиторий
