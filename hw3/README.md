@@ -15,3 +15,13 @@
 
 ## Cодержание проекта
 
+json_to_custom - код программы
+test_json_to_custom - тест программы
+output1.txt - Пример вывода программы №1
+output2.txt - Пример вывода программы №2
+output3.txt - Пример вывода программы №3
+
+## Тесты программы
+
+Запуск программы 
+python json_to_custom.py output.txt
