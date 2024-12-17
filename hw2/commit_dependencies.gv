@@ -1,0 +1,14 @@
+digraph G {
+    graph [rankdir=TB];
+    node [shape=box, style=filled, color=lightblue];
+    "8a8cd851df77dd6ec64f1bf1657c12e6569272a6" [label="Merge pull request #1 from jason4pok/feature-branch"];
+    "4e124ebd5736f858cac14010897fef894d6b9c6d" -> "8a8cd851df77dd6ec64f1bf1657c12e6569272a6";
+    "417b7df7f83a9e436206cf1d5cf94aff589f9d23" -> "8a8cd851df77dd6ec64f1bf1657c12e6569272a6";
+    "4e124ebd5736f858cac14010897fef894d6b9c6d" [label="Create file3.txt"];
+    "93776d54d4f23a3113a805a0bffebae2c155e491" -> "4e124ebd5736f858cac14010897fef894d6b9c6d";
+    "417b7df7f83a9e436206cf1d5cf94aff589f9d23" [label="Create file2.txt"];
+    "93776d54d4f23a3113a805a0bffebae2c155e491" -> "417b7df7f83a9e436206cf1d5cf94aff589f9d23";
+    "93776d54d4f23a3113a805a0bffebae2c155e491" [label="Create file1.txt"];
+    "014d92c22643aca02c6682a33819ece2e6093067" -> "93776d54d4f23a3113a805a0bffebae2c155e491";
+    "014d92c22643aca02c6682a33819ece2e6093067" [label="Initial commit"];
+}
