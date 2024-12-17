@@ -37,8 +37,6 @@ commit-tree-example.zip - клонированный репозиторий
 
 ``` python git_dep.py "D:\conf2\git_dependency_visualizer\commit-tree-example" "C:\Program Files (x86)\Graphviz\bin\dot.exe" ```
 
-После запуска граф сохраняется, а также автоматический открывается в формате PNG
-
 ## Тесты программы
 
 ``` pytest test_git_dep.py ```
