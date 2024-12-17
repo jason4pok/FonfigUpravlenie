@@ -16,12 +16,59 @@
 ## Cодержание проекта
 
 json_to_custom - код программы
+
 test_json_to_custom - тест программы
-output1.txt - Пример вывода программы №1
-output2.txt - Пример вывода программы №2
-output3.txt - Пример вывода программы №3
+
+output1.txt - Вывод программы №1
+
+output2.txt - Вывод программы №2
+
+output3.txt - Вывод программы №3
 
 ## Тесты программы
 
 Запуск программы 
-python json_to_custom.py output.txt
+``` python json_to_custom.py output.txt ```
+
+Ввод программы №1
+```
+{
+    "appName": "MyApp",
+    "windowSize": {
+        "width": 800,
+        "height": 600
+    },
+    "theme": "dark"
+}
+```
+
+Ввод программы №2
+```   
+{
+      "deviceName": "Sensor",
+      "parameters": {
+          "maxTemp": 100,
+          "minTemp": 0
+      },
+      "alerts": {
+          "onMax": "Shutdown"
+      }
+}
+```
+
+Ввод программы №3
+```
+{
+    "host": "localhost",
+    "port": 5432,
+    "username -> dbUser": "admin",
+    "password -> dbPassword": "secret",
+    "credentials": {
+        "username": "?[dbUser]",
+        "password": "?[dbPassword]"
+    }
+}
+```
+
+
+
