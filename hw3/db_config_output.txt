@@ -1,0 +1,10 @@
+table(
+    host => 'localhost',
+    port => 5432,
+    username -> dbUser => 'admin',
+    password -> dbPassword => 'secret',
+    credentials =>     table(
+        username => '?[dbUser]',
+        password => '?[dbPassword]'
+    )
+)

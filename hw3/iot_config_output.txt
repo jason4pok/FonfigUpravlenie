@@ -1,0 +1,10 @@
+table(
+    deviceName => 'Sensor',
+    parameters =>     table(
+        maxTemp => 100,
+        minTemp => 0
+    ),
+    alerts =>     table(
+        onMax => 'Shutdown'
+    )
+)
